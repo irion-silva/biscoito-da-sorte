@@ -25,7 +25,7 @@ Contém validação dos campos, lidamos com posicionamento, utilizamos pseudo-cl
 
 ## Acesso ao projeto
 
-O projeto está disponível no seguinte link: [link para o website]([site da aplicação]).
+O projeto está disponível no seguinte link: [link para o website](https://biscoito-da-sorte-gules.vercel.app/).
 
 ## Tecnologias utilizadas
 
